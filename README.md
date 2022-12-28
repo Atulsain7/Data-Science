@@ -1,4 +1,7 @@
-# Data-Science
+# Data-Science<br>
+This repository mostly contains tabular data analysis.
+Here, ML techniques `Only` to analyze and modelling is utilized,
+`It should not be taken as production ready code.` 
 
 ### This repository is divided in given sections.
 
