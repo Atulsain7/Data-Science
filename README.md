@@ -16,6 +16,8 @@ Here, ML techniques `Only` to analyze and modelling is utilized,
 | [Multiple Linear Regression without Scaling](Supervised_ML/Multiple_Linear_Regression_with_Sklearn.ipynb) | abc | abc |
 | [Multiple Linear Regression with Standard Scaler](Supervised_ML/Multiple_linear_regression_with_standardization.ipynb) | abc | abc |
 | [Multiple Linear Regression](Supervised_ML/Multiple_linear_regression.ipynb) | abc | abc |
+| [Polynominal Regression](Supervised_ML/OF_UF_explained_with_Polynominal_regression.ipynb) | abc | abc |
+| [SVM Classifier](Supervised_ML/Support_Vector_Machine_Algorithms.ipynb) | abc | abc |
 | [Logistic Regression](Supervised_ML/Logistic_Regression.ipynb) | abc | abc |
 | [Pima Indian Diabetes with Logistic Regression](Supervised_ML/Pima_Indians_diabetes_logistic_regression_&_Naive_bayes_model.ipynb) | abc | abc |
 | [PCA Logistic Regression](Supervised_ML/PCA_logistic_regression.ipynb) | abc | abc |
