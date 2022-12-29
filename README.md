@@ -40,12 +40,18 @@ Here, ML techniques `Only` to analyze and modelling is utilized,
 | :--- | :--------------- | :--------- |
 | [Basic Neural Network](DeepML/Basic_Neural_Network.ipynb) | Problem statement | Description |
 
-**4. Libray Tutorials**
+**4. Library Tutorials**
 
     This section tips and tricks of various Libraries.
 
 | File | Problem statement | Description |
 | :--- | :--------------- | :--------- |
+| [MATPLOTLIB](library_tutorials/matplotlib_&_seaborn/MATPLOTLIB.ipynb) | abc | abc |
+| [Seaborn](library_tutorials/matplotlib_&_seaborn/Seaborn_Practice_File.ipynb) | abc | abc |
+| [Data Visualization with Pandas](library_tutorials/pandas_demo/DATA_VISUALIZATION_WITH_PANDAS.ipynb) | abc | abc |
+| [DateTime Practice with Pandas](library_tutorials/pandas_demo/Datetime_Practice.ipynb) | abc | abc |
+| [SCIPY](library_tutorials/scipy_demo/SCIPY.ipynb) | abc | abc |
+| [SkLearn](library_tutorials/Scikit_learn_demo) | abc | abc |
 
 **5. Other tools**
 
@@ -53,3 +59,4 @@ Here, ML techniques `Only` to analyze and modelling is utilized,
 
 | File | Problem statement | Description |
 | :--- | :--------------- | :--------- |
+| [Hyperparameter tuning & Pipeline with sklearn](Other_tools/Hyperparameter_Tuning_with_Cross-Validation_and_Pipelines.ipynb) | abc | abc |
