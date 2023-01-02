@@ -1,7 +1,7 @@
 # Data-Science<br>
 This repository mostly contains tabular data analysis.
 Here, ML techniques `Only` to analyze and modelling is utilized,
-`It should not be taken as production ready code.` 
+`These files are prepared only to explain a chunk of technique in given problem statement` 
 
 ### This repository is divided in given sections.
 
@@ -17,11 +17,9 @@ Here, ML techniques `Only` to analyze and modelling is utilized,
 | [Multiple Linear Regression with Standard Scaler](Supervised_ML/Multiple_linear_regression_with_standardization.ipynb) | Use Standard scaler to Train model on GPA_SAT dataset | Use Standard Scaler to transform the data into scaled one. |
 | [Underfitting and Overfitting](Supervised_ML/OF_UF_explained_with_Polynominal_regression.ipynb) | Demonstrate underfitting and overfitting and methods to rectify. | Use food classification dataset and avoid overfitting with upsampling. Use Weather dataset to and avoid underfitting with polynominal regression. |
 | [SVM Classifier](Supervised_ML/Support_Vector_Machine_Algorithms.ipynb) | Use SVM Classifier | Build a SVM to identify each of a large number of black-and-white rectangular pixel display as one of the 26 capital letters in the English alphabet.|
-| [Logistic Regression](Supervised_ML/Logistic_Regression.ipynb) | abc | abc |
-| [Pima Indian Diabetes with Logistic Regression](Supervised_ML/Pima_Indians_diabetes_logistic_regression_&_Naive_bayes_model.ipynb) | abc | abc |
-| [PCA Logistic Regression](Supervised_ML/PCA_logistic_regression.ipynb) | abc | abc |
-| [K means](Supervised_ML/K-Means.ipynb) | abc | abc |
-| [K means-Market Segmentation](Supervised_ML/KMeans_Market_Segmentation_Example.ipynb) | abc | abc |
+| [Logistic Regression with statsmodels API](Supervised_ML/Logistic_Regression_with_statsmodels_api.ipynb) | Create and train logistic regression model with statsmodels API | Use statsmodels API to build and train a logistic regression model on dummy dataset |
+| [Pima Indian Diabetes with Logistic Regression](Supervised_ML/Pima_Indians_diabetes_logistic_regression_&_Naive_bayes_model.ipynb) | Use logistic regression and GaussianNB Classifier to predict whether patient has diabetes or not | Exploratory data analysis and missing value imputation with SimpleImputer and Use logistic regression and GaussianNB Classifier to predict whether patient has diabetes or not. |
+| [PCA Logistic Regression](Supervised_ML/PCA_logistic_regression.ipynb) | Use PCA to reduce diamensionality of load_digits (image) dataset and predict correct digit using LogisticRegression | Use PCA and LogisticRegression from sklearn, and compare both accuracy of both models and No of Components |
 | [Ensemble Techniques](Supervised_ML/Ensemble_Techniques.ipynb) | abc | abc |
 
 **2. Unsupervised machine learning**
@@ -31,7 +29,9 @@ Here, ML techniques `Only` to analyze and modelling is utilized,
 | File | Problem statement | Description |
 | :--- | :--------------- | :--------- |
 | [Hiearchical Clustering- Customer Spend Data](Unsupervised_ML/Hiearchical_Clustering-Customer_Spend_Data.ipynb) | Problem statement | Description |
-| [KNN-Breast Cancer](Unsupervised_ML/KNN-Breast_Cancer.ipynb) | Problem statement | Description |
+| [KNN-Breast Cancer](Supervised_ML/KNN-Breast_Cancer.ipynb) | Problem statement | Description |
+| [K means](Unsupervised_ML/K-Means.ipynb) | analyze the tech support data and do some basic analysis on problem types, time to resolve the problem and channel of suppor that is most suitable | Explore dataset and Classify data into useful classes (UnSupervised Learning) using KMeans |
+| [K means-Market Segmentation](Unsupervised_ML/KMeans_Market_Segmentation_Example.ipynb) | Explore dataset and Classify data into useful classes (UnSupervised Learning) using KMeans | Explore dataset and Classify data into useful classes (UnSupervised Learning) using KMeans |
 
 **3. Deep Learning**
 
